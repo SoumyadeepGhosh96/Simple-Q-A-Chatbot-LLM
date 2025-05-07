@@ -3,6 +3,5 @@ langchain_community
 python-dotenv
 ipykernel
 wikipedia
-langchain_community
 streamlit
 
