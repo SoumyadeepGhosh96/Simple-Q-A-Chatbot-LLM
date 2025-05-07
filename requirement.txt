@@ -1,6 +1,5 @@
 langchain
-community
-python-dotenv
+python
 ipykernel
 wikipedia
 streamlit
