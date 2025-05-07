@@ -2,7 +2,6 @@ langchain
 python-dotenv
 ipykernel
 wikipedia
-langchain-text-splitters
 langchain-community
 langchain-ollama
 streamlit
