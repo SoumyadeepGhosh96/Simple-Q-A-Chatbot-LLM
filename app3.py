@@ -22,7 +22,6 @@ st.set_page_config(page_title="Smart AI Assistant", page_icon="💡", layout="ce
 os.environ["LANGCHAIN_API_KEY"] = os.getenv("LANGCHAIN_API_KEY")
 os.environ["LANGCHAIN_TRACKING_V2"] = "true"
 os.environ["LANGCHAIN_PROJECT"] = "RAG Chatbot"
-os.environ["SERPER_API_KEY"] = os.getenv("SERPER_API_KEY")
 
 # ---------------------------- CUSTOM CSS ----------------------------
 st.markdown("""
