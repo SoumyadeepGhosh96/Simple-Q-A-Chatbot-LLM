@@ -2,7 +2,6 @@ langchain
 python-dotenv
 ipykernel
 wikipedia
-langchain-community
-langchain-ollama
+langchain_community
 streamlit
 
