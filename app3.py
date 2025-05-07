@@ -1,5 +1,5 @@
 import streamlit as st
-from langchain_community.tools import WikipediaQueryRun
+from langchain_community.tools.wikipedia.tool import WikipediaQueryRun
 from langchain_community.utilities import WikipediaAPIWrapper
 from langchain.agents import initialize_agent, AgentType
 from langchain.callbacks import StreamlitCallbackHandler
