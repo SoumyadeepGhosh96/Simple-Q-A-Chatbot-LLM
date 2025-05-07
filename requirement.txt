@@ -1,5 +1,4 @@
 langchain
-langchain_community
 python-dotenv
 ipykernel
 wikipedia
